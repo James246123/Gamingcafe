@@ -1,0 +1,50 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: grey; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+header {
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+
+
+
+.top{
+    background-color:rgb(185, 222, 53);
+    height: 500px;
+    width: 100%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+.left{
+    background-color:rgb(168, 87, 87);
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+.right{
+    background-color:rgb(43, 70, 40);
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+
+.bottom{
+background-color:rgb(49, 15, 30);
+height: 300px;
+width: 100%;
+float: left;
+font-size:38px;
+color: black; /*This changes the colour of the text. Note the spelling is in American*/
+
+}

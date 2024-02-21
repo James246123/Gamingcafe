@@ -1,0 +1,50 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: rgb(250, 255, 253); /*This changes the background colour*/
+    text-align: left; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+header{
+    background-color: bisque;
+    height:100px;
+    width:100%;
+
+}
+
+.boxl{
+    background-color: blanchedalmond;
+    height: 20px;
+    width:650%;
+    float:left;
+}
+
+.boxm{
+    background-color: antiquewhite;
+    height: 60px;;
+    width: 650px;;
+    float:left;
+}
+
+.boxr{
+    background-color: antiquewhite;
+    height: 20px;;
+    width: 650px;;
+    float:right
+}
+
+
+
+
+
+
+
+.footer{background-color: rgb(109, 82, 46);
+    height: 5px;
+    width: 2000px;
+
+}
+
+
+
